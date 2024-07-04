@@ -1,0 +1,44 @@
+Software Content Register
+
+Package:                    ALIRO-TH-ADDITIONS
+Version:                    01.00.00
+Outgoing License:           LA_OPT_NXP_Software_License v56 April 2024 - Section 2.3 applies
+License File:               LICENSE.txt
+Description and Comments:   UWB IOT Test Harness Release Package
+Release Location:           https://github.com/NXP/aliro-th-additions
+Origin:                     NXP Proprietary
+
+----------------------------------------------------------------------------------------------------------------------
+
+Package: uwb_ble_device_fw-v05.00.00.bin
+Version: v05.00.00
+Outgoing License: LA_OPT_NXP_Software_License v56 April 2024 - Section 2.3 applies
+License File: LICENSE.txt
+Type of Content: binary
+Description and comments: UWB binary
+Origin: NXP (Proprietary)
+Location: repo root
+
+----------------------------------------------------------------------------------------------------------------------
+
+Package: ALIRO_IOT_SR150_FW_v46.42.01.bin
+Version: v46.42.01
+Outgoing License: LA_OPT_NXP_Software_License v56 April 2024 - Section 2.3 applies
+License File: LICENSE.txt
+Type of Content: binary
+Description and comments: UWB Firmware binary 
+Origin: NXP (Proprietary)
+Location: repo root
+
+----------------------------------------------------------------------------------------------------------------------
+
+Package: ucitool-2.0.1-py3-none-any.whl
+Version: v02.00.01
+Outgoing License: LA_OPT_NXP_Software_License v56 April 2024 - Section 2.3 applies
+License File: LICENSE.txt
+Type of Content: binary
+Description and comments: UCI tool to build and parse UCI message for UWB
+Origin: NXP (Proprietary)
+Location: repo root
+
+----------------------------------------------------------------------------------------------------------------------
