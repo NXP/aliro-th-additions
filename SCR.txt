@@ -21,8 +21,8 @@ Location                 : repo root
 
 ----------------------------------------------------------------------------------------------------------------------
 
-Package                  : ALIRO_IOT_SR150_FW_v46.42.01.bin
-Version                  : v46.42.01
+Package                  : ALIRO_IOT_SR150_FW_v46.42.02.bin
+Version                  : v46.42.02
 Outgoing License         : LA_OPT_NXP_Software_License v56 April 2024 - Section 2.3 applies
 License File             : LICENSE.txt
 Type of Content          : binary
