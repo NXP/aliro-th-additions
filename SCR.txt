@@ -1,7 +1,7 @@
 Software Content Register
 
 Package                  : ALIRO-TH-ADDITIONS
-Version                  : 01.01.00
+Version                  : 01.02.00
 Outgoing License         : LA_OPT_NXP_Software_License v56 April 2024 - Section 2.3 applies
 License File             : LICENSE.txt
 Description and Comments : UWB IOT Test Harness Release Package
