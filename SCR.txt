@@ -1,7 +1,7 @@
 Software Content Register
 
 Package                  : ALIRO-TH-ADDITIONS
-Version                  : 01.03.00
+Version                  : 01.03.01
 Outgoing License         : LA_OPT_NXP_Software_License v56 April 2024 - Section 2.3 applies
 License File             : LICENSE.txt
 Description and Comments : UWB IOT Test Harness Release Package
@@ -32,8 +32,8 @@ Location                 : repo root
 
 ----------------------------------------------------------------------------------------------------------------------
 
-Package                  : ucitool-2.0.3-py3-none-any.whl
-Version                  : v02.00.03
+Package                  : ucitool-2.0.4-py3-none-any.whl
+Version                  : v02.00.04
 Outgoing License         : LA_OPT_NXP_Software_License v56 April 2024 - Section 2.3 applies
 License File             : LICENSE.txt
 Type of Content          : binary
