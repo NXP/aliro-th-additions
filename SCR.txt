@@ -1,8 +1,8 @@
 Software Content Register
 
 Package                  : ALIRO-TH-ADDITIONS
-Version                  : 01.03.02
-Outgoing License         : LA_OPT_NXP_Software_License v56 April 2024 - Section 2.3 applies
+Version                  : 01.04.00
+Outgoing License         : LA_OPT_NXP_Software_License v60 February 2025 - Section 2.3 applies
 License File             : LICENSE.txt
 Description and Comments : UWB IOT Test Harness Release Package
 Release Location         : https://github.com/NXP/aliro-th-additions
@@ -12,7 +12,7 @@ Origin                   : NXP Proprietary
 
 Package                  : uwb_ble_device_fw-v05.00.03.bin
 Version                  : v05.00.03
-Outgoing License         : LA_OPT_NXP_Software_License v56 April 2024 - Section 2.3 applies
+Outgoing License         : LA_OPT_NXP_Software_License v60 February 2025 - Section 2.3 applies
 License File             : LICENSE.txt
 Type of Content          : binary
 Description and comments : UWB binary
@@ -21,9 +21,9 @@ Location                 : repo root
 
 ----------------------------------------------------------------------------------------------------------------------
 
-Package                  : ALIRO_IOT_SR150_FW_v46.43.A3.bin
-Version                  : v46.43.A3
-Outgoing License         : LA_OPT_NXP_Software_License v56 April 2024 - Section 2.3 applies
+Package                  : ALIRO_IOT_SR150_FW_v46.43.14.bin
+Version                  : v46.43.14
+Outgoing License         : LA_OPT_NXP_Software_License v60 February 2025 - Section 2.3 applies
 License File             : LICENSE.txt
 Type of Content          : binary
 Description and comments : UWB Firmware binary
@@ -34,7 +34,7 @@ Location                 : repo root
 
 Package                  : ucitool-2.0.4-py3-none-any.whl
 Version                  : v02.00.04
-Outgoing License         : LA_OPT_NXP_Software_License v56 April 2024 - Section 2.3 applies
+Outgoing License         : LA_OPT_NXP_Software_License v60 February 2025 - Section 2.3 applies
 License File             : LICENSE.txt
 Type of Content          : binary
 Description and comments : UCI tool to build and parse UCI message for UWB
